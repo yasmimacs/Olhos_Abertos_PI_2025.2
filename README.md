@@ -26,6 +26,7 @@ O **Olhos Abertos** é uma proposta de aplicativo que tem como objetivo facilita
 ## Protótipo
 O protótipo do aplicativo **Olhos Abertos** foi desenvolvido utilizando a ferramenta de design Figma. A seguir, é possível visualizar algumas imagens desse protótipo:
 
+<img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/tela_login_prototipo.png" width="300" height="900"> <img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/tela_inicial_prototipo.png" width="300" height="900"> <img src="https://raw.githubusercontent.com/yasmimacs/Olhos_Abertos_PI_2025.2/main/Gravando%202025-12-04%20164833.gif" width="300">
 
 ## Pojeto de banco de dados
 
