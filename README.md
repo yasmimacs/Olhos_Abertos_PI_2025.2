@@ -37,7 +37,7 @@ Além do protótipo do aplicativo, também desenvolvemos uma simulação do banc
 
 
 ## Ferramentas utilizadas
-<img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/871/small_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="130" height="130"> <img src="https://yt3.googleusercontent.com/7u0yE6mebFkOuQZgJAdmMBkPA_C4QRcKji134BhMCcvfqYToMc5zU3H8M5SGOP97BGBBSFjd-Q=s900-c-k-c0x00ffffff-no-rj" width="80" height="80">  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" width="90" height="90">
+<img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" width="90" height="90"> <img src="https://yt3.googleusercontent.com/7u0yE6mebFkOuQZgJAdmMBkPA_C4QRcKji134BhMCcvfqYToMc5zU3H8M5SGOP97BGBBSFjd-Q=s900-c-k-c0x00ffffff-no-rj" width="80" height="80">  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" width="90" height="90">
 
 ## Desenvolvedores
 - [Yasmim Santos](https://github.com/yasmimacs) (Scrum Master / Gestora do projeto)
