@@ -24,14 +24,14 @@ O **Olhos Abertos** é uma proposta de aplicativo que tem como objetivo facilita
 - `Funcionalidade 6`: Aba com informações de canais de apoio a vítima
 
 ## Protótipo
-O protótipo do aplicativo **Olhos Abertos** foi desenvolvido utilizando a ferramenta de design Figma. A seguir, é possível visualizar algumas imagens desse protótipo:
+O protótipo do aplicativo **Olhos Abertos** foi desenvolvido utilizando a ferramenta de design *Figma*. A seguir, é possível visualizar algumas imagens desse protótipo:
 
 <img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/tela_login_prototipo.png" width="300" height="900"> <img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/tela_inicial_prototipo.png" width="300" height="900"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRiMnUyM2h4enV1amtncjF1eHAwbmw5YXFubWh1bmFuZ2ltNGQ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gERuVLRyI5D0Xc4XVR/giphy.gif" width="300">
 
 ### Para testar nosso protótipo completo, basta acessar o link: [Protótipo Olhos Abertos](https://www.figma.com/proto/ewkasEn9UKS7WgKn2smit7/PROT%C3%93TIPO-OLHOS-ABERTOS?node-id=4-11&starting-point-node-id=4%3A11&t=qSxqGiLH0DAV7gy9-1)
 
 ## Projeto de banco de dados
-Além do protótipo do aplicativo, também desenvolvemos uma simulação do banco de dados associado ao projeto. Nessa etapa, elaboramos a escrita do Minimundo, bem como o modelo conceitual e o modelo lógico utilizando o BrModelo. Para o modelo físico, utilizamos o MySQL Workbench como ferramenta de desenvolvimento.
+Além do protótipo do aplicativo, também desenvolvemos uma simulação do banco de dados associado ao projeto. Nessa etapa, elaboramos a escrita do Minimundo, bem como o modelo conceitual e o modelo lógico utilizando o *BrModelo*. Para o modelo físico, utilizamos o *MySQL Workbench* como ferramenta de desenvolvimento.
 
 ### Para uma melhor visualização dessas etapas, é possível acessar o [Notion do projeto](https://honeysuckle-license-1f2.notion.site/Projeto-Final-de-Banco-de-Dados-2bb801b7b123808d8995fe9877d97e33)
 
