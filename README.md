@@ -1,4 +1,4 @@
-<img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/Design%20sem%20nome%20(1).png">
+<img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/capa.png">
 
  
  # Olhos Abertos
