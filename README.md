@@ -26,12 +26,18 @@ O **Olhos Abertos** é uma proposta de aplicativo que tem como objetivo facilita
 ## Protótipo
 O protótipo do aplicativo **Olhos Abertos** foi desenvolvido utilizando a ferramenta de design Figma. A seguir, é possível visualizar algumas imagens desse protótipo:
 
-<img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/tela_login_prototipo.png" width="300" height="900"> <img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/tela_inicial_prototipo.png" width="300" height="900"> <img src="https://raw.githubusercontent.com/yasmimacs/Olhos_Abertos_PI_2025.2/main/Gravando%202025-12-04%20164833.gif" width="300">
+<img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/tela_login_prototipo.png" width="300" height="900"> <img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/tela_inicial_prototipo.png" width="300" height="900"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRiMnUyM2h4enV1amtncjF1eHAwbmw5YXFubWh1bmFuZ2ltNGQ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gERuVLRyI5D0Xc4XVR/giphy.gif" width="300">
+
+### Para testar nosso protótipo completo, basta acessar o link: [Protótipo Olhos Abertos](https://www.figma.com/proto/ewkasEn9UKS7WgKn2smit7/PROT%C3%93TIPO-OLHOS-ABERTOS?node-id=4-11&starting-point-node-id=4%3A11&t=qSxqGiLH0DAV7gy9-1)
 
 ## Pojeto de banco de dados
+Além do protótipo do aplicativo, também desenvolvemos uma simulação do banco de dados associado ao projeto. Nessa etapa, elaboramos a escrita do Minimundo, o modelo conceitual e o modelo lógico utilizando o BrModelo. Por fim, para o modelo físico, utilizamos o MySQL Workbench como ferramenta de desenvolvimento.
+
+### Para melhor visualização dessas etapas é possível acessar o [Notion do projeto](https://honeysuckle-license-1f2.notion.site/Projeto-Final-de-Banco-de-Dados-2bb801b7b123808d8995fe9877d97e33)
+
 
 ## Ferramentas utilizadas
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/871/small_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="100" height="100"> <img src="https://yt3.googleusercontent.com/7u0yE6mebFkOuQZgJAdmMBkPA_C4QRcKji134BhMCcvfqYToMc5zU3H8M5SGOP97BGBBSFjd-Q=s900-c-k-c0x00ffffff-no-rj" width="75" height="75">  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" width="90" height="90">
 
 ## Desenvolvedores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/228969646?v=4" width=115><br><sub>Yasmim Santos</sub>](https://github.com/yasmimacs)
