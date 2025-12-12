@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50">
+<img src="https://github.com/yasmimacs/Olhos_Abertos_PI_2025.2/blob/main/Design%20sem%20nome%20(1).png">
 
  
  # Olhos Abertos
