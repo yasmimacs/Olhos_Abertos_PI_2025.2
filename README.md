@@ -31,7 +31,7 @@ O protótipo do aplicativo **Olhos Abertos** foi desenvolvido utilizando a ferra
 ### Para testar nosso protótipo completo, basta acessar o link: [Protótipo Olhos Abertos](https://www.figma.com/proto/ewkasEn9UKS7WgKn2smit7/PROT%C3%93TIPO-OLHOS-ABERTOS?node-id=4-11&starting-point-node-id=4%3A11&t=qSxqGiLH0DAV7gy9-1)
 
 ## Projeto de banco de dados
-Além do protótipo do aplicativo, também desenvolvemos uma simulação do banco de dados associado ao projeto. Nessa etapa, elaboramos a escrita do Minimundo, bem como o modelo conceitual e o modelo lógico utilizando o *BrModelo*. Para o modelo físico, utilizamos o *MySQL Workbench* como ferramenta de desenvolvimento.
+Além do protótipo funcional do aplicativo, também estruturamos toda a parte de banco de dados. Nessa etapa, elaboramos a escrita do minimundo, os modelos conceitual e lógico (com o *BrModelo*) e o modelo físico (com o *MySQL Workbench*).
 
 ### Para uma melhor visualização dessas etapas, é possível acessar o [Notion do projeto](https://honeysuckle-license-1f2.notion.site/Projeto-Final-de-Banco-de-Dados-2bb801b7b123808d8995fe9877d97e33)
 
@@ -44,7 +44,7 @@ Além do protótipo do aplicativo, também desenvolvemos uma simulação do banc
 - [Suelen Bezerra](https://github.com/suelenbezerra) (Pesquisadora / Design)
 - [Luís Filipe Harten](https://github.com/luisfhartenn) (DevOps / Front-End)
 - [Fernanda Mello](https://github.com/fernandabenicio) (Designer (UI/UX))
-- [Benício Barros](https://github.com/yasmimacs) (Designer (UI/UX))
+- [Benício Barros](https://github.com/benibarros) (Designer (UI/UX))
 - [José Ariel Magalhães](https://github.com/arielmagalhaes-br) (DevOps / BackEnd)
 
 
