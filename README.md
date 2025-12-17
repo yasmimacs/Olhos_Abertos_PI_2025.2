@@ -31,7 +31,7 @@ O protótipo do aplicativo **Olhos Abertos** foi desenvolvido utilizando a ferra
 ### Para testar nosso protótipo completo, basta acessar o link: [Protótipo Olhos Abertos](https://www.figma.com/proto/ewkasEn9UKS7WgKn2smit7/PROT%C3%93TIPO-OLHOS-ABERTOS?node-id=4-11&starting-point-node-id=4%3A11&t=qSxqGiLH0DAV7gy9-1)
 
 ## Projeto de banco de dados
-Além do protótipo funcional do aplicativo, também estruturamos toda a parte de banco de dados. Nessa etapa, elaboramos a escrita do minimundo, os modelos conceitual e lógico (com o *BrModelo*) e o modelo físico (com o *MySQL Workbench*).
+Além do protótipo funcional do aplicativo, também estruturamos toda a parte de banco de dados. Nessa etapa, elaboramos a escrita do minimundo, os modelos conceitual e lógico (com o *brModelo*) e o modelo físico (com o *MySQL Workbench*).
 
 ### Para uma melhor visualização dessas etapas, é possível acessar o [Notion do projeto](https://honeysuckle-license-1f2.notion.site/Projeto-Final-de-Banco-de-Dados-2bb801b7b123808d8995fe9877d97e33)
 
